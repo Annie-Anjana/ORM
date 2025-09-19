@@ -46,7 +46,7 @@ class Car(models.Model):
 ## OUTPUT
 ![alt text](<Screenshot 2025-09-19 085926.png>)
 
-Include the screenshot of your admin page.
+
 
 
 ## RESULT
